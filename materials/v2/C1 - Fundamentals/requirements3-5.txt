@@ -1,1 +1,2 @@
+python-dotenv
 litellm==1.79.0
